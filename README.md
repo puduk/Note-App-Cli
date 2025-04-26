@@ -21,6 +21,7 @@ Technical Details
 - Modularized with separate .cpp and .hpp files
 - Manual memory handling (new, delete)
 - Pointer usage maximized intentionally to deepen understanding of logic and memory management
+- All operations handled on the heap without any memory leaks
 
 ## 📝 Notes
 This project was intentionally developed in a maximally challenging way:
