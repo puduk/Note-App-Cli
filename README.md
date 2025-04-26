@@ -54,6 +54,15 @@ cmake ..
 make
 ./Note_App
 ```
+## First Page
 
 
+## Main Menu
 
+## Add Note
+
+## Delete Note
+
+## Add Password Note
+
+## Show Password Notes
