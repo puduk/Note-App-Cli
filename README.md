@@ -56,6 +56,9 @@ make
 ```
 ## First Page
 
+## Create Account
+
+## Sign in 
 
 ## Main Menu
 
