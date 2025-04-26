@@ -54,19 +54,19 @@ cmake ..
 make
 ./Note_App
 ```
-## First Page
+### 🏠 First Page
 
 ![Welcome Page](note_views/Welcome_Page.png)
 
-## Create Account
+### 🧑‍💻 Create Account
 
 ![Create Account](note_views/First_Page.png)
 
-## Sign in 
+### 🔐 Sign In 
 
 ![Sign In](note_views/Sign_In.png)
 
-## Main Menu
+### 🗒️ Main Menu
 
 ![Menu](note_views/Menu.png)
 
@@ -74,15 +74,15 @@ make
 
 ![Add Note](note_views/Add_Note.png)
 
-## Delete Note
+### ➖ Remove Note
 
-![Remove Note](note_views/Remove_Note.png)
+![Delete Note](note_views/Remove_Note.png)
 
-## Add Password Note
+### 🔒 Add Password Note
 
 ![Add Password Note](note_views/Add_Password_Note.png)
 
-## Show Password Notes
+### 🔎 Show Password Note
 
 ![Show Password Note](note_views/Show_Password_Note.png)
 
