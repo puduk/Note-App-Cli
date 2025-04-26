@@ -14,7 +14,7 @@ A terminal-based note management system built using only arrays and pointers, wi
 
 ⚡ Dynamic memory management with arrays and pointers
 
-Technical Details
+## ⚙️ Technical Details
 - Pure C++
 - Only arrays and pointers used
 - No struct, class, vector, or any high-level data structures
