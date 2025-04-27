@@ -86,3 +86,7 @@ make
 
 ![Show Password Note](note_views/Show_Password_Note.png)
 
+## 🪪 License
+
+This project is licensed under the [MIT License](LICENSE) © 2025 [puduk](https://github.com/puduk)
+
